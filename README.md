@@ -1,5 +1,4 @@
 # Node
-Projetos desenvolvidos em Node
 
 ## Yahoo Answers
 
